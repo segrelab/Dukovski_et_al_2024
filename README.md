@@ -1,2 +1,2 @@
-# Dukovski_2023_Cell_Systems
-COMETS input file to reproduce the results and figures in Dukovski et al. Cell Systems 2023
+# Dukovski et al. (2024)
+COMETS input files to reproduce the results and figures in: 
