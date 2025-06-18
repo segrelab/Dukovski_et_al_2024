@@ -1,4 +1,4 @@
-# Dukovski et al. (2024)
+# Dukovski et al. (2025)
 [![DOI](https://zenodo.org/badge/656261125.svg)](https://doi.org/10.5281/zenodo.15691730)
 
 COMETS input files to reproduce the results and figures in: 
